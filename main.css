@@ -1,0 +1,94 @@
+.mainpage{
+    display: flex;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    height: 100vh;
+    flex: 50%;
+    
+}
+.body{
+    margin: 0px 0px;
+    padding: 0px 0px;  
+}
+.sectionn{
+    margin: 1px 6px;
+    padding: 1px 117px;
+}
+.section1{
+    /* border: 10px solid red; */
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(179, 159, 179);
+    color: white;
+    font-size: 1.2rem;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+   
+}
+.text{
+    margin: 17px 0px;
+    padding: 17px 0px;
+}
+.section1 .rca{
+    background-color: rgb(189, 110, 189);
+    color: white;
+    border: 2px solid black;
+    border-radius: 19px;
+    border: none;
+    outline: none;
+    margin: 17px 0px;
+    padding: 17px 0px;
+}
+.section1 .btn{
+    border-radius: 15px;
+    background: red;
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    border: none;
+    outline: none;
+    margin: 31px 8px;
+    padding: 3px 66px;
+}
+
+.section2{
+    /* border: 10px solid greenyellow; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: purple;
+    color: white;
+    font-size: 1.1rem;
+}
+.box{
+    margin: 20px 0px;
+    padding: 0px 0px; 
+}
+.box1{
+    /* border: 0.5px solid red; */
+    background-color: cadetblue;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+.box2{
+    /* border: 0.5px solid black; */
+    background-color: coral;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+.box3{
+    /* border: 0.5px solid greenyellow; */
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+.boxinside{
+    color: black;
+    font-weight: bolder;
+}
